@@ -1,4 +1,4 @@
-## slides to go with my class AST1002   Descriptive Astronomy AST1002:
+## slides to go with my class AST1002   Descriptive Astronomy:
 ## tests, assignments, popquizzes.  Find the lectures here:
 ## https://www.youtube.com/playlist?list=PLYDSr0LB8IcmZc6A-sIXlj6Xmcq95lIIt
 ## Unit1: Intro to the class - Scales in the Universe, 
